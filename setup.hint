@@ -1,4 +1,4 @@
 category: X11
 requires: cygwin
-sdesc: "Xorg RGB color-name database and utility"
-ldesc: "Xorg RGB color-name database and utility"
+sdesc: "X.Org RGB color-name database and utility"
+ldesc: "X.Org RGB color-name database and utility"
